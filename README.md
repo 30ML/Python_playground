@@ -1,5 +1,5 @@
 # python_playground
-Python 로 이것저것 해보는 레포
+Python is a programming language that lets you work quickly and integrate systems more effectively.
 
 ## Zen of Python, by Tim Peters
 
